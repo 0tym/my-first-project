@@ -4,16 +4,17 @@ header{
 
     display: flex;
     margin: 100px;
+    
 
 }
 img{
-    width: 200px;
-    height: 250px;
-    border-radius: 25% 25% 25%;
+    width: 250px;
+    height: 300px;
+    border-radius: 45% ;
 
 }
 .header_name{
-    position: absolute;
+    
     top:300px;
     right: 0;
     width: 600px;
@@ -23,8 +24,12 @@ img{
     
 }
 .header_date{
-    right:0;
+    position: absolute;
+    top:310px;
+    width: 600px;
+    height: 200px;
+    right: 0;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    display: inline-block;
+    display: ;
 }
