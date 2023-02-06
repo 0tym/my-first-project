@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0; 
+    box-sizing: border-box;
+      
+}
+.container{
+    background-color: #E5E5FD;
+    min-height: 100px;
+    border: 10px solid #1d1e4c;
+    margin: 50px;
+
+}
+h2{
+    margin: 100px;
+}
+.content{
+    margin: 100px;
+}

@@ -1,22 +1,30 @@
 
-*{
-    
-}
-
-
 
 header{
 
     display: flex;
+    margin: 100px;
 
 }
 img{
-    width: 150px;
-    height: 200px;
-    object-fit:cover;
+    width: 200px;
+    height: 250px;
+    border-radius: 25% 25% 25%;
 
 }
-header.header_name{
-    font-size: 50px;
+.header_name{
+    position: absolute;
+    top:300px;
+    right: 0;
+    width: 600px;
+    height: 200px;
+    font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.header_date{
+    right:0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
 }
