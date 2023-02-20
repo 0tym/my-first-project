@@ -1,0 +1,15 @@
+.container {
+    background-color: wheat;
+}
+header{
+    display: flex;
+
+}
+.header_image{
+    background-repeat: none;
+    height: 392px;
+    width: 314px;
+    border-radius: 25%;
+   
+}
+

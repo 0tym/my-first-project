@@ -1,15 +1,133 @@
 *{
+    background-color: #E5E5FD;
+    margin: 0;
+    padding: 0;
+    
 
+   
+   
 }
 
+body {
+
+    border: 5px solid #1D1E4C;
+    margin: 100px;
+    width: 1044px;
+    height: 1280px;
+    
+
+}
 
 header {
     display: flex;
-    
+      
 }
+
 header img{
-    height: 300px;
-    width: 250px;
-    display: 50%;
+    margin-left: 85px;
+    margin-top: 100px;
+    border-radius:170px ;
+    height: 392px;
+    width: 314px;
+}
+
+header h1{
+    height:47px;
+    width: 453px;
+
+    padding-top: 372px;
+    padding-left: 80px;
+
+    font-style: medium;
+    font-size: 48px;
+    text-align:left;
+    vertical-align: center;
 
 }
+
+header h4{
+    height: 47px;
+    width: 133px;
+
+    padding-left: 395px;
+    padding-top: 6px;
+    font-style: medium;
+    font-size: 24px;
+    text-align: left;
+    vertical-align: center;
+
+}
+
+section h1{
+    color: #000;
+    padding-left: 91px;
+    padding-top: 104px;
+    font-family: Inter;
+    font-style: medium;
+    font-size: 72px;
+    text-align: left;
+    line-height: 20px;
+    vertical-align: center;
+
+}
+section article{
+    color: #000;
+    width: 842px;
+    height: 176px;
+    padding: 32px 97px 0px 105px ;
+    font-style: mixed;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: left;
+    vertical-align: center;
+    font-family: Inter;
+    letter-spacing: 6%;
+
+}
+article{
+    width: 607px;
+    height: 218px;
+    color: #000;
+    padding-left: 97px;
+    padding-bottom: 144px;
+    padding-top: 39px;
+    padding-right: 340px;
+    line-height: 20px;
+    font-size: mixed;
+
+}
+article h3{
+    color: #000;
+    padding-bottom: 10px;
+    line-height: 20px;
+    font-size: mixed;
+}
+article ul{
+    color: #000;
+    font-style: mixed;
+    padding-left: 10px;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: left;
+    vertical-align: center;
+    font-family: Inter;
+    letter-spacing: 6%;
+}
+
+footer{
+    height: 20px;
+    width: 384px;
+    padding-bottom: 27px;
+    padding-left: 624px;
+    font-family: Inter;
+    font-style: medium;
+    font-size: 14px;
+    line-height: 20px;
+    line-height: 118%;
+    text-align: left;
+    vertical-align: Center;
+
+}
+
+
+
