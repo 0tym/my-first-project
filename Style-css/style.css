@@ -16,7 +16,7 @@ body {
     font-family: 'Inter', sans-serif;
     border: 12px solid #1D1E4C;
     margin: 100px;
-    /* position: absolute; */
+    position: relative;
 
 
 }
@@ -58,25 +58,26 @@ header h4{
     padding-left: 395px;
     padding-right: 130px;
     padding-top: 6px;
+    letter-spacing: 6%;
     font-style: medium;
     font-size: 24px;
     line-height: 20px;
     text-align: left;
     vertical-align: center;
-    line-height:100%;
+    line-height:6%;
 
 }
 
 section h1{
-    height: 62px;
-    width: 800px;
+    height: 30px;
+    width: 730px;
     color: #000;
     padding-top: 104px;
-    padding-right: 79px;
+    padding-right: 150px;
     font-style: medium;
     font-weight: 500;
     font-size: 72px;
-    line-height: 20px;
+    line-height: 22px;
     line-height: 23%;
     text-align: left;
     vertical-align: center;
@@ -86,24 +87,24 @@ section article{
     color: #000;
     width: 842px;
     height: 176px;
-    padding-top: 32px;
     padding-left: 85px;
     padding-right: 105px;
     padding-bottom: 39px;
     font-style: mixed;
     font-size: 12px;
     line-height: 22px;
-    line-height: 151%;
     font-weight: 500;
-    text-align: left;
+    text-align: justify;
     vertical-align: center;
     font-family: Inter;
-    letter-spacing: 6%;
 
+}
+section article b{
+    font-weight: 700px;
 }
 article{
     width: 607px;
-    height: 218px;
+    height: 150px;
     color: #000;
     padding-left: 97px;
     padding-bottom: 144px;
@@ -115,6 +116,7 @@ article{
 
 }
 article h3{
+    height: 50px;
     color: #000;
     padding-bottom: 10px;
     line-height: 20px;
@@ -128,7 +130,7 @@ article ul{
     font-size: 12px;
     line-height: 22px;
     font-weight: 500;
-    text-align: left;
+    text-align: justify;
     vertical-align: center;
     font-family: Inter;
     letter-spacing: 6%;
